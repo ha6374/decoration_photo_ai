@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+input/
+extracted/
+output/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.mp4
+*.mov
+*.avi
